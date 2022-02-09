@@ -1,5 +1,16 @@
 # RT_MIC_TASK
 ## Используемые библиотеки 
+
+
+```
+pip install pytest
+```
+```
+pip install selenium
+```
+```
+pip install pytest-html
+```
 Установите все используемые библиотеки так:
 
 ```
