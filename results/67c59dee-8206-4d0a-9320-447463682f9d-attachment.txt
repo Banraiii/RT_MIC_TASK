@@ -1,2 +1,0 @@
-[32mINFO    [0m BasePage:BasePage.py:32 selector: ('xpath', '//div[@class="measurement layout__measurement"]//button') not found
-[32mINFO    [0m BasePage:BasePage.py:32 selector: ('xpath', '//div[@class="load-box__row load-box__row_type_main load-box__row_clear"]//span[text()="Измерить ещё раз"]') not found

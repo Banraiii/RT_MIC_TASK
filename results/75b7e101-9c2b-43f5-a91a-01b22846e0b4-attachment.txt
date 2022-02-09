@@ -1,5 +1,0 @@
-[32mINFO    [0m BasePage:BasePage.py:32 selector: found
-[32mINFO    [0m BasePage:BasePage.py:32 selector: found
-[32mINFO    [0m BasePage:BasePage.py:32 selector: found
-[32mINFO    [0m BasePage:BasePage.py:32 selector: found
-[32mINFO    [0m BasePage:BasePage.py:32 selector: found
