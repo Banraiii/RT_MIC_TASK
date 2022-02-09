@@ -1,0 +1,5 @@
+[32mINFO    [0m BasePage:BasePage.py:32 selector: ('xpath', '//form/div/input') not found
+[32mINFO    [0m BasePage:BasePage.py:32 selector: ('xpath', '//form//input[@id="promed-password"]') not found
+[32mINFO    [0m BasePage:BasePage.py:32 selector: ('xpath', '//form//button[@id="auth_submit"]') not found
+[32mINFO    [0m BasePage:BasePage.py:32 selector: ('xpath', '//form//button[@id="auth_submit"]') not found
+[32mINFO    [0m BasePage:BasePage.py:32 selector: ('css selector', '#login-message') not found
